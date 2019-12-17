@@ -1,0 +1,30 @@
+{
+  "Input/image\\men1.jpg": {
+    "man": {
+      "Input/doc\\doc1.jpg": 79.85,
+      "Input/doc\\sc.png": 50.39,
+      "Input/doc\\se.jpg": 62.43
+    }
+  },
+  "Input/image\\ns.png": {
+    "woman": {
+      "Input/doc\\doc1.jpg": 46.85,
+      "Input/doc\\sc.png": 50.73,
+      "Input/doc\\se.jpg": 49.96
+    }
+  },
+  "Input/image\\se1.jpg": {
+    "woman": {
+      "Input/doc\\doc1.jpg": 55.7,
+      "Input/doc\\sc.png": 56.02,
+      "Input/doc\\se.jpg": 72.41
+    }
+  },
+  "Input/image\\sp.png": {
+    "woman": {
+      "Input/doc\\doc1.jpg": 49.66,
+      "Input/doc\\sc.png": 83.28,
+      "Input/doc\\se.jpg": 57.43
+    }
+  }
+}
